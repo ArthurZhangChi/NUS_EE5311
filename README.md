@@ -135,16 +135,6 @@ This project demonstrates that battery SOC estimation is not just a regression p
 
 ---
 
-## 👥 Contributions
-
-* **Yingying Liu** – Data-driven model implementation and documentation
-* **Zhenrong Zhan** – Physics-based model implementation and documentation
-* **Chi Zhang** – SciML model implementation and documentation
-* **Yuansheng Cai** – Probabilistic model implementation and documentation
-* **Wendi Yu** – Introduction, background, and comparative analysis
-
----
-
 ## 📄 License
 
 This project is for academic purposes (EE5311 CA1 assignment).
