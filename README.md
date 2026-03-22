@@ -14,8 +14,10 @@ The goal is to provide a comparative study of these methods under a unified fram
 .
 ├── datasets/          # Battery datasets (4 datasets used in this project)
 ├── outputs/           # Experimental results (predictions, metrics, plots)
-├── models/            # Model implementations (optional)
-├── scripts/           # Training / evaluation scripts (optional)
+├── M1_MLP.py
+├── M2_Physics-Based Model.py
+├── M3_SciML.py
+├── M4_EKF.py
 ├── README.md
 ```
 
@@ -117,10 +119,10 @@ This includes:
 Example:
 
 ```
-python train_baseline.py
-python train_differentiable.py
-python train_sciml.py
-python train_probabilistic.py
+python M1_MLP.py
+python M2_Physics-Based Model.py
+python M3_SciML.py
+python M4_EKF.py
 ```
 
 ---
