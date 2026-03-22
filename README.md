@@ -14,7 +14,7 @@ The goal is to provide a comparative study of these methods under a unified fram
 .
 ├── datasets/          # Battery datasets (4 datasets used in this project)
 ├── outputs/           # Experimental results (predictions, metrics, plots)
-├── M1_MLP.py
+├── M1_Data-driven Models.py
 ├── M2_Physics-Based Model.py
 ├── M3_SciML.py
 ├── M4_EKF.py
@@ -119,7 +119,7 @@ This includes:
 Example:
 
 ```
-python M1_MLP.py
+python M1_Data-driven Models.py
 python M2_Physics-Based Model.py
 python M3_SciML.py
 python M4_EKF.py
