@@ -139,4 +139,4 @@ This project demonstrates that battery SOC estimation is not just a regression p
 
 ## 📄 License
 
-This project is for academic purposes (EE5311 CA1 assignment).
+This project is for academic purposes (EE5311 CA1).
