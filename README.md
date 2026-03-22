@@ -14,6 +14,7 @@ The goal is to provide a comparative study of these methods under a unified fram
 .
 ├── datasets/          # Battery datasets (4 datasets used in this project)
 ├── outputs/           # Experimental results (predictions, metrics, plots)
+├── EE5311_Group16_blog.pdf
 ├── M1_Data-driven Models.py
 ├── M2_Physics-Based Model.py
 ├── M3_SciML.py
